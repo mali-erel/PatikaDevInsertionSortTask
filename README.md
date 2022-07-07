@@ -88,7 +88,7 @@
 <h3> Project 3: Binary Search Tree </h3>
   <li> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.</li>
   <li>Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.</li>
-  
+ <pre> 
   Root is determined first by looking the 0th index of array. In this case 7.
   If the 1st index of array, 5 is bigger than the root, put right else put left. In this case It's left.
   2nd index of array, 1 is still smaller than root so passed left. Left side is also filled and smaller than that. So put it to it's left.
@@ -101,4 +101,4 @@
   9th index of array, 2 is smaller than 7,5 bigger than 1 and smaller than 3.
   
   ![BST](https://user-images.githubusercontent.com/65141544/177879747-2e94e225-78a5-4311-aefb-067c6179e4c2.PNG)
-
+</pre>
