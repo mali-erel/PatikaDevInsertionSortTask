@@ -63,10 +63,13 @@
 
 <h3> Project 2: Merge Sort </h3>
 <pre>
-Proje 2
-[16,21,11,8,12,22] -> Merge Sort
-<li>
-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-Big-O gösterimini yazınız.
-</li>
+<p>[16,21,11,8,12,22] -> Merge Sort</p>
+<ol>
+<li>Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.</li>
+<li>Big-O gösterimini yazınız.</li>
+</ol>
+<h4>
+  Question 1:
+  </h4>
+  
 </pre>
