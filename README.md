@@ -2,7 +2,7 @@
 
 <h3> Project 1: Insertion Sort </h3>
 <p>
-  A small task, given by Patika.dev to understand basic principles of insertion sort.
+  A small task, given by Patika.dev to understand basic principles of sorts.
 </p>
 <pre>
   [22,27,16,2,18,6] -> Insertion Sort
@@ -60,4 +60,13 @@
   <li>[2,3,4,5,7,8,9,15,16]</li>
 </ol>
 </pre>
+
 <h3> Project 2: Merge Sort </h3>
+<pre>
+Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+<li>
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+</li>
+</pre>
