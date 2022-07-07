@@ -26,10 +26,12 @@
 </ol>
 
 <h4>
+  Quesrion 2:
+</h4>
   <ul>
   <li> Best case    : O(n)</li>
   <li> Average case : O(n^2)</li>
   <li> Worst case   : O(n^2)</li>
 </ul>
-  </h4>
+
 
