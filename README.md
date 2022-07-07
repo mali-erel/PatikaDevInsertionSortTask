@@ -1,4 +1,4 @@
-<h1> PatikaDevInsertionSortTask </h1>
+<h1> Veri Yapıları ve Algoritmalar Dosyasının içindeki odev-1  </h1>
 
 <h3> Project 1: Insertion Sort </h3>
 <p>
