@@ -15,7 +15,7 @@
 </ol>
 </pre>
 <h4>
-  Question 2:
+  Question 1:
   </h4>
 
 <ol>
@@ -49,4 +49,13 @@
 </h4>
   It's the best case since the array is in-ordered and linearly searching accrues.
 
-
+<h4>
+  Extra Question:
+</h4>
+  [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+  <ol>
+  <li>[2,7,3,5,8,9,4,15,16]</li>
+  <li>[2,3,7,5,8,9,4,15,16]</li>
+  <li>[2,3,4,7,5,8,9,15,16]</li>
+  <li>[2,3,4,5,7,8,9,15,16]</li>
+</ol>
