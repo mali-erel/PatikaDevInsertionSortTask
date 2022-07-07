@@ -78,4 +78,8 @@
                [11,16,21] --- [8,12,22]
                   [8,12,11,16,21,22]
   </pre>
+  <h4>
+  Question 2:
+  </h4>
+  All cases are the same so the Big-O notation is : O(nlogn).
 </pre>
