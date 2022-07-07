@@ -13,7 +13,7 @@
     Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.</li>
     <li>Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.</li>
 </ol>
-</pre>
+
 <h4>
   Question 1:
   </h4>
@@ -59,3 +59,5 @@
   <li>[2,3,5,7,8,9,4,15,16]</li>
   <li>[2,3,4,5,7,8,9,15,16]</li>
 </ol>
+</pre>
+<h3> Project 2: Merge Sort </h3>
