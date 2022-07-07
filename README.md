@@ -25,3 +25,11 @@
   <li>[2,8,16,18,22,27]</li>
 </ol>
 
+<h4>
+  <ul>
+  <li> Best case    : O(n)</li>
+  <li> Average case : O(n^2)</li>
+  <li> Worst case   : O(n^2)</li>
+</ul>
+  </h4>
+
