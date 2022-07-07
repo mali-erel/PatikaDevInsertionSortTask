@@ -9,7 +9,8 @@
 <ol>
     <li>Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.</li>
     <li>Big-O gösterimini yazınız.</li>
-    <li>Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.</li>
+    <li>Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: 
+    Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.</li>
     <li>Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.</li>
 </ol>
 
