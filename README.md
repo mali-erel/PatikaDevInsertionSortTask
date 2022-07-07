@@ -1,9 +1,10 @@
 <h1> PatikaDevInsertionSortTask </h1>
 
 <h3> Project 1: Insertion Sort </h3>
-<pre>
+<p>
   A small task, given by Patika.dev to understand basic principles of insertion sort.
-  
+</p>
+<pre>
   [22,27,16,2,18,6] -> Insertion Sort
 <ol>
     <li>Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.</li>
