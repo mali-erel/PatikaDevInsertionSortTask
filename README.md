@@ -15,7 +15,7 @@
 </ol>
 </pre>
 <h4>
-  1. Question:
+  Question 2:
   </h4>
 
 <ol>
@@ -26,12 +26,27 @@
 </ol>
 
 <h4>
-  Quesrion 2:
+  Question 2:
 </h4>
   <ul>
   <li> Best case    : O(n)</li>
   <li> Average case : O(n^2)</li>
   <li> Worst case   : O(n^2)</li>
 </ul>
+
+<h4>
+  Question 3:
+</h4>
+
+  <ul>
+  <li> Best case    : If the array is already in order. [2,8,16,18,22,27 </li>
+  <li> Average case : Array elements are mixed up. [22,27,16,2,18,6] </li>
+  <li> Worst case   : Array elemets are descending. [27,22,18,16,8,2]</li>
+</ul>
+
+<h4>
+  Question 4:
+</h4>
+  It's the best case since the array is in-ordered and linearly searching accrues.
 
 
